@@ -2,20 +2,9 @@
   "name": "p5js-interactive-portfolio",
   "version": "1.0.0",
   "description": "Interactive portfolio showcasing p5.js projects",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+  "scripts": {},
   "dependencies": {
-    "next": "^14.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "p5": "^1.7.0"
   },
-  "devDependencies": {
-    "eslint": "^8.50.0",
-    "eslint-config-next": "^14.0.0"
-  }
+  "devDependencies": {}
 }
